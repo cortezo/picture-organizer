@@ -17,4 +17,11 @@ Basic functions
 		IF files already exist, do not move that file to the date folder and place it into an Unable To Move folder
 			Maybe have multiple folders inside Unable To Move for different reasons that they weren't able to be moved
 	
+Classes
+	FileFinder
+	JpgArray
+	ArrayDateSeparator
+	FolderCreator
+	File Mover
+	Unable To Move
 	
