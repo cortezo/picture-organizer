@@ -8,8 +8,12 @@ Outline
 Basic functions
 	Find files in a directory or choose directory to use
 		Pick only .jpg files
+		return array
 	Create array of found files
 	Split array based on date each file was created or picture was taken
+		method to find all dates
+		method to create an array for each date that is found
+		method to 
 	Create new arrays for each date of pictures
 	Create new folder for each date represented, with specific naming syntax
 		IF folder already exists, place files in that folder
